@@ -4,7 +4,7 @@ import './App.css';
 // import Contact from './conatct.js'
 // const mca=require('./mca.json')
 
-import Desription from './description';
+import Desription from './Description';
 const content=require('./content.json')
 function App(props) {
   // console.log(mca)
